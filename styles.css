@@ -1,0 +1,14 @@
+.die {
+    width: 1.5em;
+    height: 1.5em;
+    color: white;
+    background-color: black;
+    margin: 1em;
+    float: left;
+    margin: 0.2em;
+    font-size: 4em;
+    text-align: center;
+    border: 2px solid black;
+line-height: 1.5em;
+vertical-align: middle;
+}
